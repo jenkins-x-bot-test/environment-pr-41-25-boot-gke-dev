@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: cb-kubecd
-  repo: bdd-sbhg-import-1573225611
-  url: https://github.com/cb-kubecd/bdd-sbhg-import-1573225611.git
+  repo: bdd-nh-import-1573225611
+  url: https://github.com/cb-kubecd/bdd-nh-import-1573225611.git
   version: ""
   versionURL: ""
