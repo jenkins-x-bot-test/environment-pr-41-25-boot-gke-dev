@@ -1,7 +1,7 @@
 dependencies:
 - host: github.com
   owner: cb-kubecd
-  repo: bdd-ghfjxy-import-1573225611
-  url: https://github.com/cb-kubecd/bdd-ghfjxy-import-1573225611.git
+  repo: bdd-sbrp-import-1573225611
+  url: https://github.com/cb-kubecd/bdd-sbrp-import-1573225611.git
   version: ""
   versionURL: ""
